@@ -1,8 +1,11 @@
-#HTML Forms from teamtreehouse.com#
+#HTML Tables from teamtreehouse.com#
 
 This is part of the Web Design track on [teamtreehouse.com](http://teamtreehouse.com/tracks/web-design).
 
 If you want to learn more about this project please sign up at [teamtreehouse.com](http://referrals.trhou.se/dustinleer) with this referral link. This helps me lower my costs so do me a solid if you want to sign up and use the second link please.
+
+
+The web is filled with text and images, but it's also filled with information like sports scores throughout the years, list of employee names and email addresses, or nutrition facts for your favorite foods. HTML tables enable the display information in what is commonly known as tabular data, which is information that's stored in a table-like structure of columns and rows. In general, anything that you might put into a spreadsheet could go in a table. There are many use cases for a table, so it's important to add them to your skills because it's a very common method for displaying information.
 
 
 * * *
@@ -12,36 +15,22 @@ If you want to learn more about this project please sign up at [teamtreehouse.co
 
 ###Step 1
 
-**Form Basics**  
-To learn about forms, we’re going to create a simple sign up form for an imaginary web app. Our form won’t actually submit anywhere, since that requires additional server-side code. However, we will learn about all the most important HTML form elements.
+**Table Basics**  
+Tables are a little bit more involved than other HTML elements like paragraphs and images, because in order to construct a table, you need to use elements to represent the individual table cells, the rows that contain those cells, as well as the table itself.
 
 *Extra Credit*  
-Did you know that the input element has over 30 attributes? The type attribute alone has over 20 values. Try reading [the documentation for the `<input>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input) and test some of the other input types.
-
+Try creating a table on your own. You can create a table of financial data, nutrition facts, sports scores, or anything else you can imagine.
 
 * * *
 
 
 ###Step 2
 
-**Organizing Forms**  
-A form can be created with just a form element and some controls, but it's helpful to the user if the form is organized with labels and fieldset elements.
+**Structuring Tables**  
+Extra structure can be helpful for automated pieces of software like search engines or screen readers, but it's also helpful for designers because it adds some additional elements that can be targeted with CSS.
 
 
 *Extra Credit*  
-Styling form elements can be slightly more difficult than other types of HTML elements. Try removing some of the default CSS in this project and practice adding your own style to the `<label>` element, the `<fieldset>` element, and the `<legend>` element.
+If you continue to learn about front-end development, try adding some [jQuery](http://teamtreehouse.com/library/jquery-basics) to your table. With the right plugin, you can add features like sorting and filtering to an otherwise static table.
 
-* * *
-
-##Step 3
-
-**Choosing Options**  
-Sometimes when creating a form, it's better for the user to choose from predefined options rather than typing in text. This can be accomplished with select menus, radio buttons, and checkboxes.
-
-*Extra Credit*
-
-*  Check the notes and read [the documentation for HTML forms](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms). We’ve covered the essentials, but this is a very in-depth topic.
-
-*  Try adding your own CSS to make this form look the way you want it to look. It's good to practice, because styling form elements can be a little bit more challenging than other HTML elements.  
-
-*  Try to make this form submit somewhere by learning a server-side language such as Ruby, PHP, or Python.
+If you learn about back-end languages like [Ruby](http://teamtreehouse.com/library/ruby-basics), [PHP](http://teamtreehouse.com/tracks/php-development), or [Python](http://teamtreehouse.com/library/python-basics), try to see if you can populate a table dynamically by using data from a database.
