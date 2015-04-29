@@ -29,4 +29,19 @@ A form can be created with just a form element and some controls, but it's helpf
 
 
 *Extra Credit*  
-Styling form elements can be slightly more difficult than other types of HTML elements. Try removing some of the default CSS in this project and practice adding your own style to the <label> element, the <fieldset> element, and the <legend> element.
+Styling form elements can be slightly more difficult than other types of HTML elements. Try removing some of the default CSS in this project and practice adding your own style to the `<label>` element, the `<fieldset>` element, and the `<legend>` element.
+
+* * *
+
+##Step 3
+
+**Choosing Options**  
+Sometimes when creating a form, it's better for the user to choose from predefined options rather than typing in text. This can be accomplished with select menus, radio buttons, and checkboxes.
+
+*Extra Credit*
+
+*  Check the notes and read [the documentation for HTML forms](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms). We’ve covered the essentials, but this is a very in-depth topic.
+
+*  Try adding your own CSS to make this form look the way you want it to look. It's good to practice, because styling form elements can be a little bit more challenging than other HTML elements.  
+
+*  Try to make this form submit somewhere by learning a server-side language such as Ruby, PHP, or Python.
