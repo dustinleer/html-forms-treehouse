@@ -3,3 +3,11 @@
 This is part of the Web Design track on [teamtreehouse.com](http://teamtreehouse.com/tracks/web-design).
 
 If you want to learn more about this project please sign up at [teamtreehouse.com](http://referrals.trhou.se/dustinleer) with this referral link. This helps me lower my costs so do me a solid if you want to sign up and use the second link please.
+
+
+* * *
+
+###Extra Credit to the Forms Basics Lesson##
+
+Did you know that the input element has over 30 attributes? The type attribute alone has over 20 values. Try reading [the documentation for the <input> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input) and test some of the other input types.
+
